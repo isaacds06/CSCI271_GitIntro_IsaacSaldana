@@ -1,6 +1,6 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: Isaac Saldana
-// Section: 271
+// Name: YOUR NAME
+// Section: YOUR SECTION
 
 #include <iostream>
 using namespace std;
